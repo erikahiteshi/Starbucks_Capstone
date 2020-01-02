@@ -1,4 +1,5 @@
 # Starbucks Capstone Project
+Please see the blogpost on this project at : https://medium.com/p/7e3a89d63241/edit
 In this project, I'll apply data engineering and a Machine Learning Model to analyze data provided by Starbucks on their interaction with offers.
 
 This directory contains three data sets:
@@ -13,6 +14,7 @@ We have used a variety of models;
 3. K Nearest Neighbours
 4. Random Forest
 
+
 # References/Acknowledgments
 Thanks to Udacity for providing the base knowledge & concept (https://www.udacity.com/)
 
@@ -21,3 +23,4 @@ https://stackoverflow.com/
 https://medium.com/fuzz/machine-learning-classification-models-3040f71e2529
 
 https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/
+
